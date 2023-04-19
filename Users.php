@@ -12,5 +12,5 @@
     Email:<input type="text" name="email"><br>
     Username:<input type="text" name="username"><br>
     Password:<input type="password" name="password"><br>
-    <inpyut type ="submit" value="Sign up">
+    <input type ="submit" value="Sign up">
 </form>
